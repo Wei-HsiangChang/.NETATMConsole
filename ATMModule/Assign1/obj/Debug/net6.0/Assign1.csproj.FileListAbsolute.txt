@@ -1,0 +1,30 @@
+/Users/Michael/Desktop/Sheridan/semester 4/C#/PROG32356/Assign1/Assign1/Assign1/bin/Debug/net6.0/Assign1
+/Users/Michael/Desktop/Sheridan/semester 4/C#/PROG32356/Assign1/Assign1/Assign1/bin/Debug/net6.0/Assign1.deps.json
+/Users/Michael/Desktop/Sheridan/semester 4/C#/PROG32356/Assign1/Assign1/Assign1/bin/Debug/net6.0/Assign1.runtimeconfig.json
+/Users/Michael/Desktop/Sheridan/semester 4/C#/PROG32356/Assign1/Assign1/Assign1/bin/Debug/net6.0/Assign1.dll
+/Users/Michael/Desktop/Sheridan/semester 4/C#/PROG32356/Assign1/Assign1/Assign1/bin/Debug/net6.0/Assign1.pdb
+/Users/Michael/Desktop/Sheridan/semester 4/C#/PROG32356/Assign1/Assign1/Assign1/obj/Debug/net6.0/Assign1.csproj.AssemblyReference.cache
+/Users/Michael/Desktop/Sheridan/semester 4/C#/PROG32356/Assign1/Assign1/Assign1/obj/Debug/net6.0/Assign1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Michael/Desktop/Sheridan/semester 4/C#/PROG32356/Assign1/Assign1/Assign1/obj/Debug/net6.0/Assign1.AssemblyInfoInputs.cache
+/Users/Michael/Desktop/Sheridan/semester 4/C#/PROG32356/Assign1/Assign1/Assign1/obj/Debug/net6.0/Assign1.AssemblyInfo.cs
+/Users/Michael/Desktop/Sheridan/semester 4/C#/PROG32356/Assign1/Assign1/Assign1/obj/Debug/net6.0/Assign1.csproj.CoreCompileInputs.cache
+/Users/Michael/Desktop/Sheridan/semester 4/C#/PROG32356/Assign1/Assign1/Assign1/obj/Debug/net6.0/Assign1.dll
+/Users/Michael/Desktop/Sheridan/semester 4/C#/PROG32356/Assign1/Assign1/Assign1/obj/Debug/net6.0/refint/Assign1.dll
+/Users/Michael/Desktop/Sheridan/semester 4/C#/PROG32356/Assign1/Assign1/Assign1/obj/Debug/net6.0/Assign1.pdb
+/Users/Michael/Desktop/Sheridan/semester 4/C#/PROG32356/Assign1/Assign1/Assign1/obj/Debug/net6.0/Assign1.genruntimeconfig.cache
+/Users/Michael/Desktop/Sheridan/semester 4/C#/PROG32356/Assign1/Assign1/Assign1/obj/Debug/net6.0/ref/Assign1.dll
+/Users/Michael/Desktop/Sheridan/semester4/C#/PROG32356/Assign1/Assign1/Assign1/bin/Debug/net6.0/Assign1
+/Users/Michael/Desktop/Sheridan/semester4/C#/PROG32356/Assign1/Assign1/Assign1/bin/Debug/net6.0/Assign1.deps.json
+/Users/Michael/Desktop/Sheridan/semester4/C#/PROG32356/Assign1/Assign1/Assign1/bin/Debug/net6.0/Assign1.runtimeconfig.json
+/Users/Michael/Desktop/Sheridan/semester4/C#/PROG32356/Assign1/Assign1/Assign1/bin/Debug/net6.0/Assign1.dll
+/Users/Michael/Desktop/Sheridan/semester4/C#/PROG32356/Assign1/Assign1/Assign1/bin/Debug/net6.0/Assign1.pdb
+/Users/Michael/Desktop/Sheridan/semester4/C#/PROG32356/Assign1/Assign1/Assign1/obj/Debug/net6.0/Assign1.csproj.AssemblyReference.cache
+/Users/Michael/Desktop/Sheridan/semester4/C#/PROG32356/Assign1/Assign1/Assign1/obj/Debug/net6.0/Assign1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Michael/Desktop/Sheridan/semester4/C#/PROG32356/Assign1/Assign1/Assign1/obj/Debug/net6.0/Assign1.AssemblyInfoInputs.cache
+/Users/Michael/Desktop/Sheridan/semester4/C#/PROG32356/Assign1/Assign1/Assign1/obj/Debug/net6.0/Assign1.AssemblyInfo.cs
+/Users/Michael/Desktop/Sheridan/semester4/C#/PROG32356/Assign1/Assign1/Assign1/obj/Debug/net6.0/Assign1.csproj.CoreCompileInputs.cache
+/Users/Michael/Desktop/Sheridan/semester4/C#/PROG32356/Assign1/Assign1/Assign1/obj/Debug/net6.0/Assign1.dll
+/Users/Michael/Desktop/Sheridan/semester4/C#/PROG32356/Assign1/Assign1/Assign1/obj/Debug/net6.0/refint/Assign1.dll
+/Users/Michael/Desktop/Sheridan/semester4/C#/PROG32356/Assign1/Assign1/Assign1/obj/Debug/net6.0/Assign1.pdb
+/Users/Michael/Desktop/Sheridan/semester4/C#/PROG32356/Assign1/Assign1/Assign1/obj/Debug/net6.0/Assign1.genruntimeconfig.cache
+/Users/Michael/Desktop/Sheridan/semester4/C#/PROG32356/Assign1/Assign1/Assign1/obj/Debug/net6.0/ref/Assign1.dll
